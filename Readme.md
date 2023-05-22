@@ -42,4 +42,8 @@ lua server.lua
 
 I hope these instructions are helpful. If you have any questions, please let me know.
 
+## Build 
+
+-  luac -o compiled.lua server.lua
+
 
